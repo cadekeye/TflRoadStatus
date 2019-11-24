@@ -1,0 +1,15 @@
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\appsettings.json
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.deps.json
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.runtimeconfig.json
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.runtimeconfig.dev.json
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.dll
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.pdb
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.csprojAssemblyReference.cache
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.csproj.CoreCompileInputs.cache
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.AssemblyInfoInputs.cache
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.AssemblyInfo.cs
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.dll
+C:\Caleb\TflRoadStatus\TflRoadStatus\obj\Debug\netcoreapp2.1\win-x64\TflRoadStatus.pdb
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Caleb\TflRoadStatus\TflRoadStatus\bin\Debug\netcoreapp2.1\win-x64\TflRoadStatus.exe
